@@ -3,7 +3,7 @@
 ## Index
 | Week | Links | 
 |------|-------|
-| [Week 1: Course Pages](week-1-course-pages) | _-- No Quiz or Assignment --_|
+| [Week 1: Course Pages](week-1-course-pages) | _-- Getting MATLAB document --_|
 | [Week 2: The MATLAB Environment](#week-2-the-matlab-environment) | [[Programming Assignments]](#programming-assignments) |
 | [Week 3: Matrices and Operators](#week-3-matrices-and-operators) | [[Programming Assignments]](#programming-assignments-1) [[Quizzes]](#quizzes) |
 | [Week 4: Functions](#week-4-functions) | [[Programming Assignments]](#programming-assignments-2) |
@@ -15,7 +15,9 @@
 
 
 ## Week 1: Course Pages
-No Graded Assignment or Quiz
+-No Graded Assignment or Quiz
+-[Getting MATLAB](week-1/)
+
 
 ## Week 2: The MATLAB Environment
 ### Programming Assignments
