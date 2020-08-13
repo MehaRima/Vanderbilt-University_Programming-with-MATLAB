@@ -16,7 +16,10 @@
 
 ## Week 1: Course Pages
 -No Graded Assignment or Quiz
--[Getting MATLAB](week-1/)
+
+### Note 
+
+  -[Getting MATLAB](week-1/https://github.com/MehaRima/-Vanderbilt-University_Programming-with-MATLAB/tree/master/week-1)
 
 
 ## Week 2: The MATLAB Environment
